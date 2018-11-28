@@ -1,11 +1,11 @@
 # First_App - 28/11/2018
 
-//Description
+## Description
 Its a Quiz App that has 7 questions with 4 possible answers that determines if you got the right answer right away by rewarding you
 with 1 point for each right answer and 0 for each wrong one.
 
 
-//How_to_play
+## How_to_play
 The first screen has 2 possible buttons.
 The first button "SPIELEN" starts the game and the second one "HIGHSCORE" is supposed to show all the previous highscores but i didn't 
 program it.
