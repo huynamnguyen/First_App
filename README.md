@@ -5,7 +5,7 @@ Its a Quiz App that has 7 questions with each having 4 possible answers. The App
 choosing one and grants you a point if it was right. After answering all questions you will see your final score.
 
 
-## How_to_play
+## How to play
 The first screen has 2 possible buttons.
 The first button "SPIELEN" starts the game and the second one "HIGHSCORE" is supposed to show all the previous highscores but i didn't 
 program it.
