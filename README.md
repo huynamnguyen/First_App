@@ -1,8 +1,8 @@
 # First_App - 28/11/2018
 
 ## Description
-Its a Quiz App that has 7 questions with each having 4 possible answers. The App determines wether you got the right answer or not after 
-choosing one and grants you a point if it was right. After answering all questions you will see your final score.
+It is a Quiz App that has seven questions with four possible answers each. The App displays whether the correct answer was chosen and grants points accordingly.
+After completion of the quiz the final score is shown.
 
 
 ## How to play
